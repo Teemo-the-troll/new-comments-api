@@ -1,0 +1,28 @@
+a {
+    padding-left: 30px;
+}
+
+label::before {
+    content: "\A";
+}
+
+input::before {
+    content: "\A";
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    text-align: middle;
+  }
+  
+  i {
+    float: right;
+    margin-top: 5px;
+    font-size: 25px;
+    color: gray;
+  }
+  
+  .bg-light .rounded .m-3 {
+      height:40px;
+  }
